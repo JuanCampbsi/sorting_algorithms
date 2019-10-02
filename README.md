@@ -1,4 +1,4 @@
-# Pesquisa-Orden-o
+# Pesquisa-Ordenação
 Utilizando Algoritmos de Ordenação 
 
 Foi gerado números aleatórios através do Rondom.
